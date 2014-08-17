@@ -16,11 +16,11 @@ SoundCloud Likes Downloader - Download all a user's likes via Python
 +++ Requirements +++
 
 SoundCloud
-  download via pip: pip install soundcloud
-  download via GitHub: https://github.com/soundcloud/soundcloud-python
+ - download via pip: pip install soundcloud
+ - download via GitHub: https://github.com/soundcloud/soundcloud-python
   
 Python
-  download via http://python.org
+ - download via http://python.org
 
 A functional internet connection capable of downloading from soundcloud
 
