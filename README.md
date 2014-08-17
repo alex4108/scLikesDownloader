@@ -26,10 +26,10 @@ A functional internet connection capable of downloading from soundcloud
 
 +++ How to use +++
 
-Step 1: Install python
-Step 2: Download scLikesDownloader
-Step 3: Extract the ZIP (if downloading via the web)
-Step 4: Run the Script
+* Install python
+* Download scLikesDownloader
+* Extract the ZIP (if downloading via the web)
+* Run the Script
 
 Tested in Python 2.7 / Windows 7: Successful with 865 public likes
 
