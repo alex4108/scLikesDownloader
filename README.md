@@ -25,11 +25,11 @@ Note: all dependencies are stored locally.  They are the copies from the origina
 
 +++ How to use +++
 
-* Install python
 * Download scLikesDownloader
 * Extract the ZIP (if downloading via the web)
+* Install python (If you have windows, use the python .msi file provided)
 * Run soundcloud_copy_likes_gui for a graphical interface
-* (CLI In Next Beta)
+* (CLI coming in next beta release)
 
 Tested in Python 2.7 / Windows 7: Successful with 865 public likes
 
