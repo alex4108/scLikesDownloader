@@ -36,6 +36,20 @@ Tested in Python 2.7 / Windows 7: Successful with 865 public likes
 Please feel free to update with test data and versions!!!
 
 +++ LICENSE +++
+
 Please view attatched LICENSE file.
 
-+++ 
++++ SUPPORT +++
+
+Please file issues for support one of the following ways:
+* Issue in THIS repository
+* Email (alex4108@live.com)
+
+Please make sure your issues include:
+* Screenshots of the alleged issue
+* Steps to reproduce
+* What you typed in and how you got there
+
+Thanks!
+
+
