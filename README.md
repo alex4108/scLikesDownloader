@@ -15,22 +15,27 @@ SoundCloud Likes Downloader - Download all a user's likes via Python
     
 +++ Requirements +++
 
-SoundCloud
- - download via pip: pip install soundcloud
- - download via GitHub: https://github.com/soundcloud/soundcloud-python
-  
 Python
  - download via http://python.org
 
 A functional internet connection capable of downloading from soundcloud
+
+Note: all dependencies are stored locally.  They are the copies from the original authors, and are licensed differently according to their licenses.
+
 
 +++ How to use +++
 
 * Install python
 * Download scLikesDownloader
 * Extract the ZIP (if downloading via the web)
-* Run the Script
+* Run soundcloud_copy_likes_gui for a graphical interface
+* (CLI In Next Beta)
 
 Tested in Python 2.7 / Windows 7: Successful with 865 public likes
 
 Please feel free to update with test data and versions!!!
+
++++ LICENSE +++
+Please view attatched LICENSE file.
+
++++ 
