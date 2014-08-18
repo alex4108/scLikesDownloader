@@ -1,0 +1,5 @@
+1.0.0-beta2 (8/17/14)
+Wrote a basic GUI w/ easyGui to streamline downloads
+
+1.0.0-beta1 (8/16/14)
+Initial release.  Combine a user's soundcloud profile URL and a download path to download all their likes!
