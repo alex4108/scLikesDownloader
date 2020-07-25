@@ -10,8 +10,8 @@ class downloader:
 
     def __init__(self, UserURL, PATH):
         try:
-            self.client = sc.Client(client_id='***REMOVED***',
-                client_secret='***REMOVED***',
+            self.client = sc.Client(client_id='',
+                client_secret='',
                 )
             self.user = self.client.get('/resolve', url=UserURL)
             self.path = PATH
@@ -299,7 +299,7 @@ class downloader:
 
         
         filepath = self.validPath(artist.username + '_' + track.permalink + '.' + track.original_format)
-        url = track.download_url + '?client_id=***REMOVED***'
+        url = track.download_url + '?client_id=1fbdfddf1e6711cd0aff00f3b92e7cbf'
         try:
             req = urllib2.urlopen(urllib2.Request(url=url))
             if req.getcode() != 200:
