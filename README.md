@@ -1,6 +1,9 @@
 scLikesDownloader
 =================
 
+
+* SoundCloud closed their API and this app doesn't support OAuth2.  Therefore this project is dead *
+
 SoundCloud Likes Downloader - Download all a user's likes via Python
 
 
